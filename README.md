@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhasbhattu
-- 👀 I’m interested in JavaScript, C, PHP
-- 🌱 I’m currently learning React
+- 👀 I’m interested in JavaScript, Node, React
+- 🌱 I’m currently learning Containerization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suhasbhattu@gmail.com
 
